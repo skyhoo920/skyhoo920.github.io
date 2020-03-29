@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://skyhoo920.github.io</id>
+    <id>http://skyhoo920.github.io</id>
     <title>Sky Hu的个人博客</title>
-    <updated>2020-03-29T16:33:05.296Z</updated>
+    <updated>2020-03-29T16:36:27.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://skyhoo920.github.io"/>
-    <link rel="self" href="https://skyhoo920.github.io/atom.xml"/>
+    <link rel="alternate" href="http://skyhoo920.github.io"/>
+    <link rel="self" href="http://skyhoo920.github.io/atom.xml"/>
     <subtitle> SJTUer丨ISFJ 丨产品经理养成中</subtitle>
-    <logo>https://skyhoo920.github.io/images/avatar.png</logo>
-    <icon>https://skyhoo920.github.io/favicon.ico</icon>
+    <logo>http://skyhoo920.github.io/images/avatar.png</logo>
+    <icon>http://skyhoo920.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sky Hu的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
-        <id>https://skyhoo920.github.io/post/hello-gridea/</id>
-        <link href="https://skyhoo920.github.io/post/hello-gridea/">
+        <id>http://skyhoo920.github.io/post/hello-gridea/</id>
+        <link href="http://skyhoo920.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p><strong>abc</strong></p>

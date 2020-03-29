@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skyhoo920.github.io</id>
     <title>Sky Hu的个人博客</title>
-    <updated>2020-03-29T16:16:17.826Z</updated>
+    <updated>2020-03-29T16:18:39.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skyhoo920.github.io"/>
     <link rel="self" href="https://skyhoo920.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle> SJTUer丨ISFJ 丨产品经理养成中</subtitle>
     <logo>https://skyhoo920.github.io/images/avatar.png</logo>
     <icon>https://skyhoo920.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sky Hu的个人博客</rights>
